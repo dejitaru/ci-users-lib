@@ -34,4 +34,4 @@ Bastará con crear un nuevo controlador que herede de secure_controller
     define('DENIED_VIEW' , 'denied_view');	
     
 *LOGIN_CONTROLLER* indica el controlador del login para el usuario que se usará para redirigirlo cuando no tenga una sesión abierta
-*DEIED_VIEW* indica la vista que se cargará cuando el usuario no tenga acceso a la ruta actual
+*DENIED_VIEW* indica la vista que se cargará cuando el usuario no tenga acceso a la ruta actual
